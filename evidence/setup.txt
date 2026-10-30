@@ -1,0 +1,2 @@
+Hostname: ubs26041vms
+IP Address: 10.0.2.15 172.18.0.1 172.17.0.1 fd17:625c:f037:2:a00:27ff:fec7:b135 
